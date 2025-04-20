@@ -21,11 +21,8 @@ A digital, sensory experience that merges the dreamlike and the divine into an e
 
 ## 📸 Screenshots
 
-| Day Scene | Night Scene |
-|:---------:|:-----------:|
-| ![Day](https://github.com/user-attachments/assets/d4dd234c-f055-4e6c-849d-37e048e90257.png) | ![Night](https://github.com/user-attachments/assets/86d78c69-3518-4963-852a-484b05e25975.png) |
-
-
+<img src="https://github.com/user-attachments/assets/d4dd234c-f055-4e6c-849d-37e048e90257.png" width="45%" />
+<img src="https://github.com/user-attachments/assets/86d78c69-3518-4963-852a-484b05e25975.png" width="45%" />
 
 ---
 
