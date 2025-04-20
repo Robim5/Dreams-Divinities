@@ -21,7 +21,7 @@ A digital, sensory experience that merges the dreamlike and the divine into an e
 
 ## 📸 Screenshots
 
-<img src="https://github.com/user-attachments/assets/2fe65564-a709-4066-88c8-30dc8b69cd32" width="45%" />
+<img src="https://github.com/user-attachments/assets/e49692b3-aeb4-4a93-b7f5-cbfc82dd32a5" width="45%" />
 <img src="https://github.com/user-attachments/assets/eee51d5b-9589-4321-aae9-24d65ea07f56" width="45%" />
 
 ---
